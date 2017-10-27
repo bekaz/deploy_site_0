@@ -1,0 +1,8 @@
+.HeaderSlider{
+    position: absolute;
+    top: 120px;
+    width: 960px;
+    height: 800px;
+    left: 50%;
+    margin-left: -480px;
+}
