@@ -7,6 +7,7 @@ export default class Header extends Component {
     render() {
         return (
            <div className="Header"> 
+               <div id="LOGO"></div>
             <MenuElement id={0} text="HOME"/>
             <MenuElement id={1} text="STYLE DEMO"/>
             <MenuElement id={2} text="FULL WIDTH"/>
